@@ -1,0 +1,9 @@
+1. Create Live Charts reactcharts.js internal CoreUI ✅
+2. Turn the Card Red when CPU Usage or Memory Usage becomes < 80% ✅
+3. Create an SMS or Email the moment CPU Usage / Memory Usage goes more than 80% 3 times in a row.✅
+4. Save data in DB (MongoDB);
+5. Create a list of agents connected on dashboard. If I select an agent I should get their metrics
+
+{
+    Name: 'IP address of the machine'
+}
